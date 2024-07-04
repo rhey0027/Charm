@@ -1,0 +1,1 @@
+export { default as wristlet } from "@/images/wristlet.png";

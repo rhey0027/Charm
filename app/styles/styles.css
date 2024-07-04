@@ -1,0 +1,12 @@
+.blink {
+  animation: blinkme 1s infinite
+}
+@keyframes blinkme {
+  100% {
+    opacity: 0;
+    color: blue;
+  }
+  0% {
+    opacity: 100;
+  }
+}
